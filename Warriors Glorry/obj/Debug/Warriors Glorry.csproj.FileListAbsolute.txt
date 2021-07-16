@@ -1,0 +1,10 @@
+C:\Users\Kevin\source\repos\Warriors Glorry\Warriors Glorry\obj\Debug\Warriors Glorry.csproj.AssemblyReference.cache
+C:\Users\Kevin\source\repos\Warriors Glorry\Warriors Glorry\obj\Debug\Warriors_Glorry.Form1.resources
+C:\Users\Kevin\source\repos\Warriors Glorry\Warriors Glorry\obj\Debug\Warriors_Glorry.Properties.Resources.resources
+C:\Users\Kevin\source\repos\Warriors Glorry\Warriors Glorry\obj\Debug\Warriors Glorry.csproj.GenerateResource.cache
+C:\Users\Kevin\source\repos\Warriors Glorry\Warriors Glorry\obj\Debug\Warriors Glorry.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Warriors Glorry\Warriors Glorry\bin\Debug\FrostWar.exe.config
+C:\Users\Kevin\source\repos\Warriors Glorry\Warriors Glorry\bin\Debug\FrostWar.exe
+C:\Users\Kevin\source\repos\Warriors Glorry\Warriors Glorry\bin\Debug\FrostWar.pdb
+C:\Users\Kevin\source\repos\Warriors Glorry\Warriors Glorry\obj\Debug\FrostWar.exe
+C:\Users\Kevin\source\repos\Warriors Glorry\Warriors Glorry\obj\Debug\FrostWar.pdb
